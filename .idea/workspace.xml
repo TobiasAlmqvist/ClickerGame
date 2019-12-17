@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2993a49d-749a-4e43-8b66-5d378823935b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ClickerGame/Click.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ClickerGame/Main.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Click.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
